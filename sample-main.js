@@ -7,11 +7,16 @@
 
 // 1. Hide all of the paragraphs on the index.html page.
 
+$("p").hide();
+
 
 // 2. Hide all of the h2's on the page.
+$("h2").hide();
 
 
 // 3. Hide all of the elements in the document.
+
+ $("html").hide();
 
 
 // 4. Hide all links on the page
