@@ -20,6 +20,7 @@ $("h2").hide();
 
 
 // 4. Hide all links on the page
+ $("a").hide();
 
 
 // 5. Hide all of the odd table rows (Austin, Colin, & Jessica's rows)
